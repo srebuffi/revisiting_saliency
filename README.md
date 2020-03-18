@@ -1,5 +1,5 @@
 # revisiting_saliency
 
 <p align="center">
-  ![](bla.gif)
+  <img src="bla.gif">
 </p>

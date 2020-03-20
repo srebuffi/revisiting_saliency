@@ -5,6 +5,7 @@ Standalone code for the paper: There and Back Again: Revisiting Backpropagation 
 For better analysis tools and to perform the benchmarks on Pascal or COCO, we recommend to use [TorchRay](https://github.com/ruthcfong/TorchRay/tree/normgrad) where all the saliency methods of the paper are implemented.
 
 <p align="center">
+  <b>Some Links:</b>
   <img src="bla.gif">
 </p>
 

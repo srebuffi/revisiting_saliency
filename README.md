@@ -5,9 +5,10 @@ Standalone code for the paper: There and Back Again: Revisiting Backpropagation 
 For better analysis tools and to perform the benchmarks on Pascal or COCO, we recommend to use [TorchRay](https://github.com/ruthcfong/TorchRay/tree/normgrad) where all the saliency methods of the paper are implemented.
 
 <p align="center">
-  <b>Some Links:</b>
-  <img src="bla.gif">
+  <img src="bla.gif"><br>
+  <b>Combinations of phase 1 (rows) and phase 2 (columns) for VGG16 at different layers ("combi" is when combining layers)</b><br>
 </p>
+
 
 ## Cite this work
 If you use this code for your project please consider citing us:

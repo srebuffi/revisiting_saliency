@@ -9,6 +9,12 @@ For better analysis tools and to perform the benchmarks on Pascal or COCO, we re
   <b>Combinations of phase 1 (rows) and phase 2 (columns) for VGG16 at different layers ("combi" is when combining layers)</b><br>
 </p>
 
+## Code
+To get the saliency maps used in the above figure, simply run the following PyTorch code:
+```
+python vgg16_grid_saliency.py
+```
+The other python file produces the same grid but for ResNet50.
 
 ## Cite this work
 If you use this code for your project please consider citing us:

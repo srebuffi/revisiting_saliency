@@ -28,6 +28,6 @@ If you use this code for your project please consider citing us:
 ```
 
 ## Acknowledgments
-This work is supported by Mathworks/DTA DFR02620, the Rhodes Trust (M.P.), EPSRC AIMS CDT and ERC 638009-IDIU.
+This work is supported by Mathworks/DTA DFR02620, Open Philanthropy, EPSRC AIMS CDT and ERC 638009-IDIU.
 
 The standalone code in this repository is inspired by https://github.com/jacobgil/pytorch-grad-cam

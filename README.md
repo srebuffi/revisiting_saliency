@@ -1,6 +1,6 @@
 ## There and Back Again: Revisiting Backpropagation Saliency Methods
 
-Standalone code for the paper: There and Back Again: Revisiting Backpropagation Saliency Methods, CVPR 2020 by [Sylvestre-Alvise Rebuffi*](http://www.robots.ox.ac.uk/~srebuffi/), [Ruth Fong*](http://ruthcfong.github.io/), [Xu Ji*](https://github.com/xu-ji) and [Andrea Vedaldi](http://www.robots.ox.ac.uk/~vedaldi/)
+Standalone code for the paper: [There and Back Again: Revisiting Backpropagation Saliency Methods, CVPR 2020](https://arxiv.org/abs/2004.02866) by [Sylvestre-Alvise Rebuffi*](http://www.robots.ox.ac.uk/~srebuffi/), [Ruth Fong*](http://ruthcfong.github.io/), [Xu Ji*](https://github.com/xu-ji) and [Andrea Vedaldi](http://www.robots.ox.ac.uk/~vedaldi/).
 
 For better analysis tools and to perform the benchmarks like the Pointing Game, we recommend to use [TorchRay](https://github.com/ruthcfong/TorchRay/tree/normgrad) where all the saliency methods of the paper are implemented.
 
